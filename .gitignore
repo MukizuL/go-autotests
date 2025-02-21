@@ -31,3 +31,5 @@ cmd/random/random
 # Allow bin directory but not artifacts
 bin/*
 !bin/README.md
+
+# blah blah
