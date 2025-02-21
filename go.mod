@@ -1,8 +1,8 @@
 module github.com/Yandex-Practicum/go-autotests
 
-go 1.22.1
+go 1.23
 
-toolchain go1.22.5
+toolchain go1.23.6
 
 require (
 	github.com/go-resty/resty/v2 v2.7.0
